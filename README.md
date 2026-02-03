@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Zorvelien</h1>
-<h3 align="center">Full-Stack Developer | React • NestJS • MongoDB</h3>
+<h1 align="right">Hi 👋, I'm Zorvelien</h1>
+<h3 align="right">Full-Stack Developer | React • NestJS • MongoDB</h3>
