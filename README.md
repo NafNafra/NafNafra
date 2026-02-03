@@ -1,7 +1,7 @@
 <img src='./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg' alt='image found on pinterest'/>
 
 # Salama aby 👋 
-## Ny anarako dia ANDRIANAIVO Nafafisoaseheno Zorvelien 
+## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
 ## 🔥 About Me
 
