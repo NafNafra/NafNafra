@@ -1,7 +1,7 @@
 <img src='./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg' alt='image found on pinterest'/>
 
-## Salama aby 👋 
-### Ny anarako dia ANDRIANAIVO Nafafisoaseheno Zorvelien 
+# Salama aby 👋 
+## Ny anarako dia ANDRIANAIVO Nafafisoaseheno Zorvelien 
 
 ## 🔥 About Me
 
@@ -9,9 +9,8 @@
 
 - 💻 Full-stack web developer in training
 - ⚛️ Frontend focused on ``React / Next.js``
-- 🧠 Backend with **NestJS & MongoDB**
-- 🛡️ Interested in **cybersecurity**, IDS/IPS & Docker labs
-- 🎨 Passionate about **UI/UX & modern animations**
+- 🧠 Backend with ``NestJS & MongoDB``
+- 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``
 - 🚀 Always learning, always building
 
 ---
