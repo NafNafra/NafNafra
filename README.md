@@ -1,16 +1,14 @@
 <img src='./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg' alt='image found on pinterest'/>
 
-<h1 align="center">, Zorvelien ici !</h1>
-<h3 align="center">Salama aby 👋 Ny anarako ANDRIANAIVO Nafafisoa</h3>
-
----
+## Salama aby 👋 
+### Ny anarako dia ANDRIANAIVO Nafafisoaseheno Zorvelien 
 
 ## 🔥 About Me
 
 🙏 Namaste — welcome to my GitHub space.
 
-- 💻 Full-stack web developer in training  
-- ⚛️ Frontend focused on **React / Next.js**
+- 💻 Full-stack web developer in training
+- ⚛️ Frontend focused on ``React / Next.js``
 - 🧠 Backend with **NestJS & MongoDB**
 - 🛡️ Interested in **cybersecurity**, IDS/IPS & Docker labs
 - 🎨 Passionate about **UI/UX & modern animations**
