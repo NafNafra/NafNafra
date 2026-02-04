@@ -7,7 +7,7 @@
 <div>
  <!-- Who am i? -->
  <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width=450 align="left">
- <div>
+ <div align="right">
   <div align="center">
 
   **Who Am I?**
@@ -24,8 +24,6 @@
    </p>
   </div>
   </div>
-</div>
- 
 </div>
 
 ## 🧠 What I’m Working On
