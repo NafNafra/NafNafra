@@ -4,6 +4,7 @@
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
 
+<div>
 <!-- Who am i? -->
 <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width=450 align="left">
 <div align="center">
@@ -13,18 +14,15 @@
 
 <div align="justify">
 <p>
-- 💻 Full-stack web developer in training
-- ⚛️ Frontend focused on ``React / Next.js``
-- 🧠 Backend with ``NestJS & MongoDB``
-- 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``
-- 🚀 Always learning, always building
+- 💻 Full-stack web developer in training <br/>
+- ⚛️ Frontend focused on ``React / Next.js``<br/>
+- 🧠 Backend with ``NestJS & MongoDB``<br/>
+- 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``<br/>
+- 🚀 Always learning, always building<br/>
 </p>
 </div>
 
-
-🙏 Namaste — welcome to my GitHub space.
-
----
+</div>
 
 ## 🧠 What I’m Working On
 
