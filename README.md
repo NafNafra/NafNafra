@@ -14,9 +14,10 @@
 
 <div align="justify">
 <p>
-- 💻 Full-stack web developer in training <br/>
+- 💻 Developpeuse Full-stack en web developpement et in training <br/>
 - ⚛️ Frontend focused on ``React / Next.js``<br/>
 - 🧠 Backend with ``NestJS & MongoDB``<br/>
+- 🛠️ Investing into DevOps learning and automatisation <br/>
 - 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``<br/>
 - 🚀 Always learning, always building<br/>
 </p>
@@ -37,7 +38,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,git,linux" />
 </p>
 
 ---
