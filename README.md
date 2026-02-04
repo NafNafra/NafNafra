@@ -3,8 +3,8 @@
 # Salama aby 👋 
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
-| ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,docker,git,linux) | **Mon Projet**<br/>Description du projet ici |
-|--------------------|---------------------------------------------|
+| ![](https://github.com/NafNafra/NafNafra/blob/main/assets/f57ee7677c1afa517b82daefc9e01f9d.jpg) | **Mon Projet**<br/>Description du projet ici |
+
 ## 🔥 About Me
 
 🙏 Namaste — welcome to my GitHub space.
