@@ -3,9 +3,9 @@
 # Salama aby 👋 
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
-<table style='border: none; border-collapse: collapse;'>
+<table style='border-none border-collapse'>
   <tr>
-    <td style="border: none; padding-right: 16px;">
+    <td style="border: none">
       <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width="120" />
     </td>
     <td style="border: none;">
