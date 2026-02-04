@@ -13,20 +13,17 @@
 
 <div align="justify">
 
-<p>Description du projet ici</p>
-      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-      </p>
-</div>
-
 ## 🔥 About Me
-
-🙏 Namaste — welcome to my GitHub space.
 
 - 💻 Full-stack web developer in training
 - ⚛️ Frontend focused on ``React / Next.js``
 - 🧠 Backend with ``NestJS & MongoDB``
 - 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``
 - 🚀 Always learning, always building
+</div>
+
+
+🙏 Namaste — welcome to my GitHub space.
 
 ---
 
