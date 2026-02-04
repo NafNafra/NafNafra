@@ -3,7 +3,7 @@
 # Salama aby 👋 
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+<div style="flex row center 20px">
   <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" alt="Description" width="200" />
   <div>
     <h3>Titre</h3>
