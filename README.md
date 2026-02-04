@@ -12,14 +12,13 @@
 </div>
 
 <div align="justify">
-
-## 🔥 About Me
-
+<p>
 - 💻 Full-stack web developer in training
 - ⚛️ Frontend focused on ``React / Next.js``
 - 🧠 Backend with ``NestJS & MongoDB``
 - 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``
 - 🚀 Always learning, always building
+</p>
 </div>
 
 
