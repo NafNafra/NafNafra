@@ -3,14 +3,8 @@
 # Salama aby 👋 
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
-<div style="flex row center 20px">
-  <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" alt="Description" width="200" />
-  <div>
-    <h3>Titre</h3>
-    <p>Votre texte ici. Il sera automatiquement placé à droite de l'image.</p>
-  </div>
-</div>
-
+| ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,docker,git,linux) | **Mon Projet**<br/>Description du projet ici |
+|--------------------|---------------------------------------------|
 ## 🔥 About Me
 
 🙏 Namaste — welcome to my GitHub space.
