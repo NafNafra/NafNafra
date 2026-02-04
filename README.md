@@ -6,7 +6,7 @@
 
 <div>
  <!-- Who am i? -->
- <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width=450 align="left">
+ <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width=350 align="left">
  <div align="right">
   <div align="center">
 
