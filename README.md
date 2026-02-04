@@ -3,10 +3,19 @@
 # Salama aby 👋 
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
-| ![](https://github.com/NafNafra/NafNafra/blob/main/assets/f57ee7677c1afa517b82daefc9e01f9d.jpg) | **Mon Projet**<br/>Description du projet ici<br/>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
- |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------|
+<table>
+  <tr>
+    <td>
+      <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width="120" />
+    </td>
+    <td>
+      <h3>Mon Projet</h3>
+      <p>Description du projet ici</p>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 About Me
 
