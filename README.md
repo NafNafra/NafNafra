@@ -5,24 +5,27 @@
 
 
 <div>
-<!-- Who am i? -->
-<img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width=450 align="left">
-<div align="center">
+ <!-- Who am i? -->
+ <img src="./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg" width=450 align="left">
+ <div>
+  <div align="center">
 
-**Who Am I?**
+  **Who Am I?**
+  </div>
+
+  <div align="justify">
+   <p>
+    - 💻 Developpeuse Full-stack en web developpement et in training <br/>
+    - ⚛️ Frontend focused on ``React / Next.js``<br/>
+    - 🧠 Backend with ``NestJS & MongoDB``<br/>
+    - 🛠️ Investing into DevOps learning and automatisation <br/>
+    - 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``<br/>
+    - 🚀 Always learning, always building<br/>
+   </p>
+  </div>
+  </div>
 </div>
-
-<div align="justify">
-<p>
-- 💻 Developpeuse Full-stack en web developpement et in training <br/>
-- ⚛️ Frontend focused on ``React / Next.js``<br/>
-- 🧠 Backend with ``NestJS & MongoDB``<br/>
-- 🛠️ Investing into DevOps learning and automatisation <br/>
-- 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``<br/>
-- 🚀 Always learning, always building<br/>
-</p>
-</div>
-
+ 
 </div>
 
 ## 🧠 What I’m Working On
